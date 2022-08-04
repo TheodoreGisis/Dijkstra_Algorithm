@@ -5,4 +5,4 @@ This works by iteratively calculating a distance for each node in the graph, sta
 
 ## Real life applications of Dijkstra's Algorithm
 
-*Digital Mapping Services in Google Maps
+* Digital Mapping Services in Google Maps

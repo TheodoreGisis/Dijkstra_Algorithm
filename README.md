@@ -18,4 +18,8 @@ This works by iteratively calculating a distance for each node in the graph, sta
    </p>
    
    1) We initialize all distances to infinity 
+   2) 
+  <p align="center">
+   <img width="690" height="430" src="https://github.com/TheodoreGisis/Dijkstra_Algorithm/blob/main/Graph/Distances.jpg" >
+   </p>
    

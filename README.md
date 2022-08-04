@@ -26,5 +26,5 @@ This works by iteratively calculating a distance for each node in the graph, sta
    2)We are making an array that hold the information,if the node is visited or no.We initialize all nodes as not visited  except from the source node,in our case 0.
    
    <p align="center">
-   <img width="160" height="230" src="https://github.com/TheodoreGisis/Dijkstra_Algorithm/blob/main/Graph/Viseted_array.jpg" >
+   <img width="690" height="430" src="https://github.com/TheodoreGisis/Dijkstra_Algorithm/blob/main/Graph/Viseted_array.jpg" >
    </p>

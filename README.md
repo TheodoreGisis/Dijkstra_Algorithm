@@ -32,5 +32,5 @@ This works by iteratively calculating a distance for each node in the graph, sta
    3) Next we check for the minimun distance.After finding it, update the distance and the visited array.
 
    <p align="center">
-   <img width="690" height="430" src="https://github.com/TheodoreGisis/Dijkstra_Algorithm/blob/main/Graph/Distance_1.jpg" >
+   <img width="710" height="430" src="https://github.com/TheodoreGisis/Dijkstra_Algorithm/blob/main/Graph/Distance_1.jpg" >
    </p>

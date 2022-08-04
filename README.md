@@ -12,3 +12,8 @@ This works by iteratively calculating a distance for each node in the graph, sta
 * Robotic Path etc..
 
 ## Example 
+
+   <p align="center">
+   <img width="550" height="430" src="https://github.com/TheodoreGisis/Dijkstra_Algorithm/blob/main/Graph/Graph.jpg" >
+   </p>
+   

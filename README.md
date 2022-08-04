@@ -43,4 +43,6 @@ This works by iteratively calculating a distance for each node in the graph, sta
    <img width="160" height="230" src="https://github.com/TheodoreGisis/Dijkstra_Algorithm/blob/main/Graph/distance1.jpg" >
    </p>
    
-   4) Continue the process for all nodes
+   4) Continue the process for all nodes.
+   5) Output of our program: 0 -> 1 -> 3 -> 4 - > 6 wich is the shortest path from node 0 to node 6.
+   

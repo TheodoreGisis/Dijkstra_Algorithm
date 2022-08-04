@@ -41,15 +41,6 @@ void Graph::add_edge(int source, int edge, int distance)
 {
     adj.push_back(Pair(edge, source, distance));
 }
-//
-void Graph::print()
-{
-    for (int i = 0; i < V; i++)
-    {
-        cout << adj[i].source << "---> ";
-        cout << adj[i].edge << " .Distance: " << adj[i].distance << endl;
-    }
-}
 // Dijksta algorithm
 
 void Graph::algorithm(int s)

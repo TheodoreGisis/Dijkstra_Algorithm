@@ -42,3 +42,5 @@ This works by iteratively calculating a distance for each node in the graph, sta
    <p align="center">
    <img width="160" height="230" src="https://github.com/TheodoreGisis/Dijkstra_Algorithm/blob/main/Graph/distance1.jpg" >
    </p>
+   
+   4) Continue the process for all nodes

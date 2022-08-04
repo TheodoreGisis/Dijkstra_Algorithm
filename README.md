@@ -20,6 +20,6 @@ This works by iteratively calculating a distance for each node in the graph, sta
    1) We initialize all distances to infinity 
   
   <p align="center">
-   <img width="290" height="230" src="https://github.com/TheodoreGisis/Dijkstra_Algorithm/blob/main/Graph/Distances.jpg" >
+   <img width="100" height="130" src="https://github.com/TheodoreGisis/Dijkstra_Algorithm/blob/main/Graph/Distances.jpg" >
    </p>
    

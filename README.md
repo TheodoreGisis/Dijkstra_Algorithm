@@ -6,3 +6,7 @@ This works by iteratively calculating a distance for each node in the graph, sta
 ## Real life applications of Dijkstra's Algorithm
 
 * Digital Mapping Services in Google Maps
+* Social Networking Application
+* Telephone Network
+* IP routing to find Open shortest Path First
+* Robotic Path etc..

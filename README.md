@@ -17,7 +17,7 @@ This works by iteratively calculating a distance for each node in the graph, sta
    <img width="690" height="430" src="https://github.com/TheodoreGisis/Dijkstra_Algorithm/blob/main/Graph/Graph.jpg" >
    </p>
    
-   1) We initialize all distances to infinity 
+   1) We make an array of distances and initialize it to infinity 
   
   <p align="center">
    <img width="160" height="230" src="https://github.com/TheodoreGisis/Dijkstra_Algorithm/blob/main/Graph/Distances.jpg" >
@@ -27,4 +27,10 @@ This works by iteratively calculating a distance for each node in the graph, sta
    
    <p align="center">
    <img width="690" height="430" src="https://github.com/TheodoreGisis/Dijkstra_Algorithm/blob/main/Graph/Viseted_array.jpg" >
+   </p>
+   
+   3) Next we check for the minimun distance.After finding it, update the distance and the visited array.
+
+   <p align="center">
+   <img width="690" height="430" src="https://github.com/TheodoreGisis/Dijkstra_Algorithm/blob/main/Graph/Distance_1.jpg" >
    </p>

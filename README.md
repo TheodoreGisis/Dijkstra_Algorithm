@@ -11,6 +11,11 @@ This works by iteratively calculating a distance for each node in the graph, sta
 * IP routing to find Open shortest Path First
 * Robotic Path etc..
 
+## Time complexity
+
+Complexity of Dijkstra Algorithm
+      Time complexity - O(E + VlogV)O(E+VlogV) where V is the number of verices and E is the no of edges in the graph.
+
 ## How to solve!
 
    <p align="center">

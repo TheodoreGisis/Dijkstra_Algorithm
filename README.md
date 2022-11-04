@@ -16,7 +16,7 @@ This works by iteratively calculating a distance for each node in the graph, sta
 
 Complexity of Dijkstra Algorithm:
 
-* Time complexity - O(E + VlogV)O(E+VlogV) where V is the number of verices and E is the no of edges in the graph.
+* Time complexity - O(E + VlogV)O(E+VlogV) where V is the number of vertices and E is the no of edges in the graph.
 
 ## How to solve!
 
@@ -30,13 +30,13 @@ Complexity of Dijkstra Algorithm:
    <img width="160" height="230" src="https://github.com/TheodoreGisis/Dijkstra_Algorithm/blob/main/Graph/Distances.jpg" >
    </p>
    
-   2) We are making an array that hold the information,if the node is visited or no.We initialize all nodes as not visited  except from the source node,in our case 0.
+   2) We are making an array that hold the information, if the node is visited or no. We initialize all nodes as not visited  except from the source node, in our case 0.
    
    <p align="center">
    <img width="690" height="430" src="https://github.com/TheodoreGisis/Dijkstra_Algorithm/blob/main/Graph/Viseted_array.jpg" >
    </p>
    
-   3) Next we check for the minimun distance.After finding it, update the distance and the visited array.
+   3) Next we check for the minimum distance. After finding it, update the distance and the visited array.
 
    <p align="center">
    <img width="710" height="430" src="https://github.com/TheodoreGisis/Dijkstra_Algorithm/blob/main/Graph/Distance_1.jpg" >
@@ -51,5 +51,5 @@ Complexity of Dijkstra Algorithm:
    </p>
    
    4) Continue the process for all nodes.
-   5) Output of our program: 0 -> 1 -> 3 -> 4 - > 6 wich is the shortest path from node 0 to node 6.
+   5) Output of our program: 0 → 1 → 3 → 4 → 6 which is the shortest path from node 0 to node 6.
    
